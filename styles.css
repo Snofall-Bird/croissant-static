@@ -1,0 +1,10 @@
+body {
+  text-align: center;
+  background-color: rgb(238, 241, 219);
+  max-width: 900px;
+  margin-left: 180px;
+}
+a {
+  color: blueviolet;
+  padding: 20px;
+}
