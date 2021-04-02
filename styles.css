@@ -1,6 +1,7 @@
 body {
   text-align: center;
-  background-color: rgb(238, 241, 219);
+  background-color: rgb(250, 218, 170);
+  font-family: "Lobster", cursive;
 }
 a {
   color: blueviolet;
